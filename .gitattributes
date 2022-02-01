@@ -1,0 +1,8 @@
+# dss files
+*.dss binary
+
+*.dll binary
+
+*.java text eol=lf
+
+.factorypath text eol=lf

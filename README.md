@@ -16,10 +16,6 @@ The stormwater, sewer infiltration, and sanitary flows are routed through three 
 
 Marian Domanski, Henry Doyle
 
-## Recommended Citation
-
-Domanski, M.M., Doyle, H.F., 2022, Special Contributing Area Loading Program, U.S. Geological Survey software release, https://doi.org/10.5066/P9EE0614.
-
 # Additional Information
 
 Any use of trade, firm, or product names is for descriptive purposes only and

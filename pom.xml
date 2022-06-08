@@ -8,7 +8,7 @@
     <version>1.0.0-alpha</version>
 
     <name>scalp</name>
-    <url>https://code.usgs.gov/scalp/scalp</url>
+    <url>https://code.usgs.gov/water/scalp</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
